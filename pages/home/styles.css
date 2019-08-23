@@ -37,3 +37,7 @@ h1 {
     padding-left: 16.5rem;
     margin-top: 25px;
 }
+
+.background{
+    background:linear-gradient( #1487cb 25%, #1c61bc 100%);
+}
